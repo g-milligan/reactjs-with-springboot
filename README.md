@@ -4,7 +4,7 @@
 
 - [Intro 0:00](https://www.youtube.com/watch?v=-LUA-LHXobE&t=0s)
 - [Software Requirements 4:01](https://www.youtube.com/watch?v=-LUA-LHXobE&t=241s)
-- [Contact Domain 6:34](https://www.youtube.com/watch?v=-LUA-LHXobE&t=394s) | [Spring Initializer Configuration](docs/start.spring.io.md)
+- [Contact Domain 6:34](https://www.youtube.com/watch?v=-LUA-LHXobE&t=394s) | [Spring Initializer Configuration](docs/start.spring.io.md) | [Code diff](#TODO)
 - [Contact Repository 12:40](https://www.youtube.com/watch?v=-LUA-LHXobE&t=760s)
 - [Contact Service - Part 1 14:24](https://www.youtube.com/watch?v=-LUA-LHXobE&t=864s)
 - [Contact Service - Part 2 18:20](https://www.youtube.com/watch?v=-LUA-LHXobE&t=1100s)
