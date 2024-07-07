@@ -44,6 +44,43 @@
 			"response": []
 		},
 		{
+			"name": "updateContact",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"id\": \"{{id}}\",\r\n    \"name\": \"{{name}}\",\r\n    \"email\": \"{{email}}\",\r\n    \"address\": \"{{address}}\",\r\n    \"title\": \"{{title}}\",\r\n    \"status\": \"{{status}}\",\r\n    \"phone\": \"{{phone}}\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{host}}/contacts",
+					"host": [
+						"{{host}}"
+					],
+					"path": [
+						"contacts"
+					]
+				}
+			},
+			"response": []
+		},
+		{
 			"name": "/contacts",
 			"request": {
 				"method": "GET",
@@ -55,6 +92,57 @@
 					],
 					"path": [
 						"contacts"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "/contacts/{id}",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{host}}/contacts/{{id}}",
+					"host": [
+						"{{host}}"
+					],
+					"path": [
+						"contacts",
+						"{{id}}"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "/contacts/photo",
+			"request": {
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "id",
+							"value": "a41cd1be-738d-4443-b144-9b113645f90f",
+							"type": "text"
+						},
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/C:/Users/milli/src/reactjs-with-springboot/profile-photos/harmony.jpg"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{host}}/contacts/photo",
+					"host": [
+						"{{host}}"
+					],
+					"path": [
+						"contacts",
+						"photo"
 					]
 				}
 			},
@@ -115,6 +203,11 @@
 		{
 			"key": "title",
 			"value": "Developer",
+			"type": "string"
+		},
+		{
+			"key": "id",
+			"value": "a41cd1be-738d-4443-b144-9b113645f90f",
 			"type": "string"
 		}
 	]
