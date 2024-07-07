@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Junior RT",
+        "email": "sampleemail@gmail.com",
+        "address": "Philidelphia PA",
+        "title": "Developer",
+        "status": "Active",
+        "phone": "555-555-5555"
+    },
+    {
+        "name": "Albert",
+        "email": "albert@gmail.com",
+        "address": "Detroit, MI",
+        "title": "Developer",
+        "status": "Active",
+        "phone": "777-777-7777"
+    },
+    {
+        "name": "Bob",
+        "email": "bob@gmail.com",
+        "address": "Ann Arbor, MI",
+        "title": "Developer",
+        "status": "Active",
+        "phone": "888-888-8888"
+    },
+    {
+        "name": "Paul McCartney",
+        "email": "paul@gmail.com",
+        "address": "England",
+        "title": "Developer",
+        "status": "Active",
+        "phone": "999-999-9999"
+    },
+    {
+        "name": "Jamie",
+        "email": "jamie@gmail.com",
+        "address": "Troy, MI",
+        "title": "Developer",
+        "status": "Active",
+        "phone": "111-111-1111"
+    },
+    {
+        "name": "Gilbert",
+        "email": "gilbert@gmail.com",
+        "address": "France",
+        "title": "Developer",
+        "status": "Active",
+        "phone": "222-222-2222"
+    },
+    {
+        "name": "Homer",
+        "email": "homer@gmail.com",
+        "address": "Greece, Italy",
+        "title": "Developer",
+        "status": "Active",
+        "phone": "333-333-3333"
+    },
+    {
+        "name": "Nate",
+        "email": "nate@gmail.com",
+        "address": "Adrian, MI",
+        "title": "Developer",
+        "status": "Active",
+        "phone": "444-444-4444"
+    },
+    {
+        "name": "Scott",
+        "email": "scott@gmail.com",
+        "address": "Germany",
+        "title": "Developer",
+        "status": "Active",
+        "phone": "123-456-789"
+    },
+    {
+        "name": "Jimmy",
+        "email": "jim@gmail.com",
+        "address": "Atlanta, Georgia",
+        "title": "Developer",
+        "status": "Active",
+        "phone": "543-654-986"
+    },
+    {
+        "name": "Mike",
+        "email": "mike@gmail.com",
+        "address": "Jeruselem",
+        "title": "Developer",
+        "status": "Active",
+        "phone": "234-098-5673"
+    },
+    {
+        "name": "Harmony",
+        "email": "harmony@gmail.com",
+        "address": "Cape Cod, Florida",
+        "title": "Developer",
+        "status": "Active",
+        "phone": "567-789-1234"
+    }
+]
