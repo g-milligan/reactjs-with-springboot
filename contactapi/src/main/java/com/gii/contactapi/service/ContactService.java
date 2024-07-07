@@ -43,8 +43,10 @@ public class ContactService {
         return contactRepo.save(contact);
     }
 
-    public void deleteContact(Contact contact) {
-        contactRepo.delete(contact); // assignment to implement delete
+    public Contact deleteContact(String id) {
+        Contact contact = contactRepo.findById(id).orElseThrow(() -> new RuntimeException("Contact not found"));
+        contactRepo.delete(contact); 
+        return contact;
     }
 
     public String uploadPhoto(String id, MultipartFile file) {

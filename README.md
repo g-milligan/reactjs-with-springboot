@@ -10,7 +10,7 @@
 - [Contact Service - Part 2 18:20](https://www.youtube.com/watch?v=-LUA-LHXobE&t=1100s) | [Code diff](https://github.com/g-milligan/reactjs-with-springboot/commit/29d7391776af70cd237147f4eacd93fa367d49c1)
 - [Data Source Configuration 33:32](https://www.youtube.com/watch?v=-LUA-LHXobE&t=2012s) | [Code diff 1](https://github.com/g-milligan/reactjs-with-springboot/commit/bc90add4c10636f3c1ec1f2edb43491837010b9c) | [Code diff using environment variables](https://github.com/g-milligan/reactjs-with-springboot/commit/0e8340940cb87201e6806539e3b16f58f5f83c1b)
 - [API Test Part 1 36:24](https://www.youtube.com/watch?v=-LUA-LHXobE&t=2184s) | [Code diff](https://github.com/g-milligan/reactjs-with-springboot/commit/e91392767994fb3f0f36fb3f2043d889055764f3) | [Code diff with postman collection + sample data](https://github.com/g-milligan/reactjs-with-springboot/commit/43647e01d026f13410f5327128ccfa35c3a102a0)
-- [API Test Part 2 43:16](https://www.youtube.com/watch?v=-LUA-LHXobE&t=2596s) | [Code diff](#TODO)
+- [API Test Part 2 43:16](https://www.youtube.com/watch?v=-LUA-LHXobE&t=2596s) | [Code diff](https://github.com/g-milligan/reactjs-with-springboot/commit/af79d5ad72aeb226d1a9943b1b6c6fb3acb8daf0) | [Code diff with delete endpoint](#TODO)
 - [Create ReactJS application 50:47](https://www.youtube.com/watch?v=-LUA-LHXobE&t=3047s)
 - [Clean up ReactJS application 54:04](https://www.youtube.com/watch?v=-LUA-LHXobE&t=3244s)
 - [Components 57:31](https://www.youtube.com/watch?v=-LUA-LHXobE&t=3451s)

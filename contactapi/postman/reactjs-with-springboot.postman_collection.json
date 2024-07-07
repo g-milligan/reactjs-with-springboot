@@ -86,12 +86,18 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "{{host}}/contacts",
+					"raw": "{{host}}/contacts?page=0",
 					"host": [
 						"{{host}}"
 					],
 					"path": [
 						"contacts"
+					],
+					"query": [
+						{
+							"key": "page",
+							"value": "0"
+						}
 					]
 				}
 			},
@@ -116,6 +122,25 @@
 			"response": []
 		},
 		{
+			"name": "/contacts/delete/{id}",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"url": {
+					"raw": "{{host}}/contacts/delete/4746a5e6-4919-4ddc-b688-2db87d26776a",
+					"host": [
+						"{{host}}"
+					],
+					"path": [
+						"contacts",
+						"delete",
+						"4746a5e6-4919-4ddc-b688-2db87d26776a"
+					]
+				}
+			},
+			"response": []
+		},
+		{
 			"name": "/contacts/photo",
 			"request": {
 				"method": "PUT",
@@ -125,13 +150,13 @@
 					"formdata": [
 						{
 							"key": "id",
-							"value": "a41cd1be-738d-4443-b144-9b113645f90f",
+							"value": "629a92e1-46ab-431f-9cd4-d385fb82ad90",
 							"type": "text"
 						},
 						{
 							"key": "file",
 							"type": "file",
-							"src": "/C:/Users/milli/src/reactjs-with-springboot/profile-photos/harmony.jpg"
+							"src": "/C:/Users/milli/src/reactjs-with-springboot/profile-photos/paul.jpg"
 						}
 					]
 				},
