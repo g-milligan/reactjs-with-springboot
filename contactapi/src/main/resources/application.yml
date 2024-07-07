@@ -2,9 +2,9 @@ spring:
   application:
     name: contactapi
   datasource:
-    url: jdbc:postgresql://192.168.1.216:5432/testdatabase
-    username: postgresuser
-    password: securepassword
+    url: '${DB_POSTGRESQL_URL}'
+    username: '${DB_POSTGRESQL_USER}'
+    password: '${DB_POSTGRESQL_PWD}'
   jpa:
     database-platform: org.hibernate.dialect.PosgreSQLInnoDBDialect
     generate-ddl: true
