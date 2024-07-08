@@ -44,8 +44,8 @@ Start the app:
 npm start
 ```
 
-- [Create ReactJS application 50:47](https://www.youtube.com/watch?v=-LUA-LHXobE&t=3047s) | [Code diff](#TODO)
-- [Clean up ReactJS application 54:04](https://www.youtube.com/watch?v=-LUA-LHXobE&t=3244s)
+- [Create ReactJS application 50:47](https://www.youtube.com/watch?v=-LUA-LHXobE&t=3047s) | [Code diff](https://github.com/g-milligan/reactjs-with-springboot/commit/bc0f8a110ede10e2a9fb4c5f8ca25547b145044d)
+- [Clean up ReactJS application 54:04](https://www.youtube.com/watch?v=-LUA-LHXobE&t=3244s) | [Code diff](#TODO)
 - [Components 57:31](https://www.youtube.com/watch?v=-LUA-LHXobE&t=3451s)
 - Header Component 1:1:07
 - Contact Component 1:7:14
