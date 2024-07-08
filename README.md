@@ -47,8 +47,8 @@ npm start
 - [Create ReactJS application 50:47](https://www.youtube.com/watch?v=-LUA-LHXobE&t=3047s) | [Code diff](https://github.com/g-milligan/reactjs-with-springboot/commit/bc0f8a110ede10e2a9fb4c5f8ca25547b145044d)
 - [Clean up ReactJS application 54:04](https://www.youtube.com/watch?v=-LUA-LHXobE&t=3244s) | [Code diff](https://github.com/g-milligan/reactjs-with-springboot/commit/10561ec18a11027fa3036d840f5a6fa3d432bc69)
 - [Components 57:31](https://www.youtube.com/watch?v=-LUA-LHXobE&t=3451s) | [Code diff](https://github.com/g-milligan/reactjs-with-springboot/commit/0980b3550657612e630a7bcc1e6816d178bd39e6)
-- [Header Component 1:1:07](https://youtu.be/-LUA-LHXobE?t=3667) | [Code diff](#TODO)
-- [Contact Component 1:7:14](https://youtu.be/-LUA-LHXobE?t=4035)
+- [Header Component 1:1:07](https://youtu.be/-LUA-LHXobE?t=3667) | [Code diff](https://github.com/g-milligan/reactjs-with-springboot/commit/e220289a3d703737f795ddb9ed5ea2b53c9abd51)
+- [Contact Component 1:7:14](https://youtu.be/-LUA-LHXobE?t=4035) | [Code diff](#TODO)
 - [Contact List Component 1:13:31](https://www.youtube.com/watch?v=-LUA-LHXobE&t=4411s)
 - Contact Service 1:29:9
 - [Fetching Contacts 1:34:21](https://www.youtube.com/watch?v=-LUA-LHXobE&t=5661s)
