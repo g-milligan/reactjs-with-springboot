@@ -54,9 +54,9 @@ npm start
 - [Fetching Contacts 1:34:21](https://www.youtube.com/watch?v=-LUA-LHXobE&t=5661s) | [Code diff](https://github.com/g-milligan/reactjs-with-springboot/commit/83f5ed099f876096b04631e41d7ba509d60e7cf1)
 - [CORS Configuration 1:39:43](https://www.youtube.com/watch?v=-LUA-LHXobE&t=5983s)
 - Display Header Component 1:45:5 | [Code diff](https://github.com/g-milligan/reactjs-with-springboot/commit/724c0b06df6139bbe916b9a5c4cb4d810d6b3b78)
-- [Routes and Display Contact List 1:48:56](https://www.youtube.com/watch?v=-LUA-LHXobE&t=6536s) | [Code diff](#TODO)
+- [Routes and Display Contact List 1:48:56](https://www.youtube.com/watch?v=-LUA-LHXobE&t=6536s) | [Code diff](https://github.com/g-milligan/reactjs-with-springboot/commit/0be4208c81679fbefc1979c04f5b48597392a7e6)
 - [HTML Modal 1:54:28](https://www.youtube.com/watch?v=-LUA-LHXobE&t=6868s)
-- [Save Data From Modal 1:59:56](https://www.youtube.com/watch?v=-LUA-LHXobE&t=7196s)
+- [Save Data From Modal 1:59:56](https://www.youtube.com/watch?v=-LUA-LHXobE&t=7196s) | [Code diff](#TODO)
 - Save File From Modal 2:5:21
 - [Save Contact 2:10:26](https://www.youtube.com/watch?v=-LUA-LHXobE&t=7826s)
 - [Fetch Single Contact 2:20:31](https://www.youtube.com/watch?v=-LUA-LHXobE&t=8431s)
